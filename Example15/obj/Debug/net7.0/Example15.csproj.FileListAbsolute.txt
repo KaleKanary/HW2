@@ -1,0 +1,15 @@
+C:\Users\77057\GIT GIT\HomeWork2\Example15\bin\Debug\net7.0\Example15.exe
+C:\Users\77057\GIT GIT\HomeWork2\Example15\bin\Debug\net7.0\Example15.deps.json
+C:\Users\77057\GIT GIT\HomeWork2\Example15\bin\Debug\net7.0\Example15.runtimeconfig.json
+C:\Users\77057\GIT GIT\HomeWork2\Example15\bin\Debug\net7.0\Example15.dll
+C:\Users\77057\GIT GIT\HomeWork2\Example15\bin\Debug\net7.0\Example15.pdb
+C:\Users\77057\GIT GIT\HomeWork2\Example15\obj\Debug\net7.0\Example15.csproj.AssemblyReference.cache
+C:\Users\77057\GIT GIT\HomeWork2\Example15\obj\Debug\net7.0\Example15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77057\GIT GIT\HomeWork2\Example15\obj\Debug\net7.0\Example15.AssemblyInfoInputs.cache
+C:\Users\77057\GIT GIT\HomeWork2\Example15\obj\Debug\net7.0\Example15.AssemblyInfo.cs
+C:\Users\77057\GIT GIT\HomeWork2\Example15\obj\Debug\net7.0\Example15.csproj.CoreCompileInputs.cache
+C:\Users\77057\GIT GIT\HomeWork2\Example15\obj\Debug\net7.0\Example15.dll
+C:\Users\77057\GIT GIT\HomeWork2\Example15\obj\Debug\net7.0\refint\Example15.dll
+C:\Users\77057\GIT GIT\HomeWork2\Example15\obj\Debug\net7.0\Example15.pdb
+C:\Users\77057\GIT GIT\HomeWork2\Example15\obj\Debug\net7.0\Example15.genruntimeconfig.cache
+C:\Users\77057\GIT GIT\HomeWork2\Example15\obj\Debug\net7.0\ref\Example15.dll
